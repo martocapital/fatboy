@@ -1,0 +1,11 @@
+Package: fatboy
+Title: Martocapital access to FatBoy DB
+Version: 0.0.1.5000
+Authors@R: person("Adam", "Bochenek", email = "adam.bochenek@martocapital.com", role = c("aut", "cre"))
+Description: Allow for data upload/retrieve from FatBoy DB.
+Imports: foreach , doMC
+Depends:
+    R (>= 3.0.2)
+License: Copyright by Matrocapital. All rights reserved
+LazyData: true
+RoxygenNote: 5.0.1.9000
